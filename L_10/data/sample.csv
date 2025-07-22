@@ -1,0 +1,11 @@
+OrderID,CustomerID,ProductName,Quantity,Price,OrderDate,Status
+1001,C001,Laptop,1,1200.00,2025-07-20,Completed
+1002,C002,Mouse,2,25.50,2025-07-21,Pending
+1003,C001,Keyboard,1,75.00,2025-07-21,Completed
+1004,C003,Monitor,1,300.00,2025-07-22,Shipped
+1005,C004,Webcam,1,49.99,2025-07-22,Completed
+1006,C002,Headphones,1,89.99,2025-07-22,Pending
+1007,C005,Printer,1,150.00,2025-07-22,Completed
+1008,C003,External Hard Drive,1,79.99,2025-07-22,Shipped
+1009,C001,Laptop,1,1200.00,2025-07-23,Pending
+1010,C005,Microphone,1,60.00,2025-07-23,Completed
